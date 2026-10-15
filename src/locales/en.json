@@ -38,27 +38,27 @@
     },
     "start": {
       "eyebrow": "Start Here",
-      "title": "Your Spelling Race Journey",
+      "title": "Your SpellingRace Journey",
       "cards": [
         {
           "number": "1",
           "title": "Beginner Guide",
-          "description": "Master the Spirit World from day one with our comprehensive beginner guide covering controls, combat, and early progression."
+          "description": "Learn the round loop, reading habits, and home-row discipline that turn a first SpellingRace session into clean wins."
         },
         {
           "number": "2",
-          "title": "Fastest Leveling",
-          "description": "Dominate early game and max your progression with the most efficient leveling routes and strategies."
+          "title": "Typing Speed",
+          "description": "Build the keystroke accuracy and reaction speed that decide every 12-player SpellingRace round."
         },
         {
           "number": "3",
-          "title": "Best Farming Spots",
-          "description": "Maximize your Soul Essence and EXP gains with optimal farming locations for every stage."
+          "title": "Word List",
+          "description": "Study difficulty tiers, tricky words, and memory hooks so no SpellingRace prompt catches you off guard."
         },
         {
           "number": "4",
-          "title": "How to Extract",
-          "description": "Learn the best methods and locations for extracting resources in Spelling Race."
+          "title": "Codes Status",
+          "description": "Check the honest status of SpellingRace codes and how blocks are actually earned in-game."
         }
       ]
     },
@@ -66,78 +66,78 @@
       "eyebrow": "Popular Pages",
       "title": "Trending Now",
       "quickLinks": [
-        "Hollow Progression",
-        "Fastest Leveling",
-        "Spirit Charms",
-        "All Boss Guides"
+        "How to Play",
+        "Word List",
+        "Typing Speed",
+        "Beginner Guide"
       ],
       "cards": [
         {
           "badge": "Beginner",
           "title": "Beginner Guide",
-          "description": "Everything you need from your first login to mastering the basics of combat and progression.",
-          "href": "/beginner-guide"
+          "description": "The round loop, typing drills, and habits that win gold from your first session.",
+          "href": "/guide/spelling-race-beginner-guide"
         },
         {
           "badge": "Updated",
-          "title": "Active Codes",
-          "description": "All working codes with rewards redeem before they expire.",
-          "href": "/codes"
+          "title": "Codes Status",
+          "description": "The honest status of SpellingRace codes and how blocks are really earned.",
+          "href": "/codes/spelling-race-codes"
         },
         {
-          "badge": "Updated",
-          "title": "Equipment Database",
-          "description": "94 items across 5 slots complete gear database with stats, rarity, and sources.",
-          "href": "/equipment"
-        },
-        {
-          "badge": "Popular",
-          "title": "Which Race Should You Pick?",
-          "description": "Shinigami, Quincy, or Hollow compare all three and find your perfect playstyle.",
-          "href": "/races/best-race"
-        },
-        {
-          "badge": "New",
-          "title": "Enemies & Monsters",
-          "description": "23 enemy types across 5 regions drops, locations, and farming tips.",
-          "href": "/enemies"
+          "badge": "Guide",
+          "title": "Word List & Difficulty Tiers",
+          "description": "Warm-up to expert word tiers with the trap words that decide close races.",
+          "href": "/guide/spelling-race-word-list"
         },
         {
           "badge": "Popular",
-          "title": "Boss Locations & Drops",
-          "description": "Every boss location, drop table, and respawn timer in one reference.",
-          "href": "/boss-locations-drops-respawn-times"
+          "title": "Typing Speed",
+          "description": "WPM benchmarks and drills that turn fast fingers into more blocks per round.",
+          "href": "/mechanics/spelling-race-typing-speed"
         },
         {
           "badge": "Popular",
-          "title": "Best Builds",
-          "description": "Optimal stat allocation, skill tree picks, and Charm combos for every playstyle.",
-          "href": "/builds/best-builds"
+          "title": "How to Play",
+          "description": "Setup, controls, scoring, and category settings from first lap to high score.",
+          "href": "/mechanics/spelling-race-how-to-play"
+        },
+        {
+          "badge": "Guide",
+          "title": "Spelling Race Tips",
+          "description": "Posture, word patterns, error recovery, and a daily routine you can keep.",
+          "href": "/guide/spelling-race-tips"
         },
         {
           "badge": "New",
-          "title": "Shikai Tier List",
-          "description": "All 6 Shinigami Shikai types ranked by PvP and PvE performance.",
-          "href": "/tier-list/shikai"
+          "title": "Game Modes",
+          "description": "Easy, Hard, Challenge, Spelling Bee, and the Water Race edition compared.",
+          "href": "/modes"
         },
         {
           "badge": "New",
-          "title": "World Events Guide",
-          "description": "Supply Caches, Raids, and endgame world events with rare rewards.",
-          "href": "/world-events"
+          "title": "Platforms & Download",
+          "description": "Where to play SpellingRace online, in a browser, or on mobile for free.",
+          "href": "/platforms/spelling-race-online"
+        },
+        {
+          "badge": "Guide",
+          "title": "Practice Routine",
+          "description": "Short, repeatable practice sessions that beat marathon cramming.",
+          "href": "/guide/spelling-race-practice"
         }
       ]
     },
     "aboutGame": {
-      "title": "What is Spelling Race?",
+      "title": "What is SpellingRace?",
       "paragraphs": [
-        "Spelling Race is a stylized fighting RPG on Roblox inspired by the Bleach anime universe. Choose from three playable races Shinigami, Quincy, or Hollow each with unique progression systems, unlockable abilities, and evolution paths. Master over 130 skills as you fight your way to the level 100 cap.",
-        "Whether you're unlocking your first Shikai, evolving from a base Hollow into an Arrancar, or grinding Quincy Lieutenant missions, our wiki covers every system with detailed guides, data tables, and step-by-step walkthroughs."
+        "SpellingRace is a free-to-play Roblox spelling game from Team Ry LLC, a verified developer account. A word appears on screen, you type it exactly, and the answer is scored on how fast and how clean it is — the game's own pitch is simple: the faster you answer, the more blocks you earn. Servers hold up to 12 players, and private servers are free.",
+        "There is no lore, no currency shop, and no code redemption menu — just words, a timer, and a scoreboard. Community tracker snapshots put SpellingRace at roughly 88.7 million visits with an 89.6% positive rating and a typical session of about nine minutes, which is why this wiki focuses on short, repeatable practice: word lists, typing drills, mode breakdowns, and the habits that decide a round in its first second."
       ],
       "stats": [
         {
           "label": "Developer",
-          "value": "Midnight Continent"
+          "value": "Team Ry LLC"
         },
         {
           "label": "Platform",
@@ -145,186 +145,272 @@
         },
         {
           "label": "Genre",
-          "value": "Fighting RPG"
+          "value": "Party & Casual"
+        },
+        {
+          "label": "Players / Server",
+          "value": "12"
         },
         {
           "label": "Visits",
-          "value": "12.6M+"
+          "value": "88.7M+"
+        },
+        {
+          "label": "Positive Rating",
+          "value": "89.6%"
         },
         {
           "label": "Favorites",
-          "value": "243K+"
-        },
-        {
-          "label": "Total Skills",
-          "value": "130+"
-        },
-        {
-          "label": "Level Cap",
-          "value": "100"
+          "value": "122K+"
         }
       ],
       "cta": "Explore All Guides"
     },
     "explore": {
-      "title": "Explore Spelling Race Wiki",
-      "description": "Master your seafood restaurant on Roblox with essential progression guides, active codes, complete fish & recipe catalogs, and optimal upgrade strategies.",
+      "title": "Explore SpellingRace Wiki",
+      "description": "Every SpellingRace system in one place: how a round works, the full mode list, word difficulty tiers, controls, platforms, and the practice habits that earn more blocks.",
       "modules": [
         {
           "order": 1,
-          "name": "Spelling Race Working Codes",
-          "description": "Redeem the latest working codes to claim free coins, gems, exclusive cosmetics, and boost items before they expire.",
-          "href": "/codes/spelling-race-codes",
-          "displayType": "code-box",
+          "name": "SpellingRace How to Play",
+          "description": "Learn the core SpellingRace loop — read the prompt, type the word, and submit before the timer runs out — with a beginner-friendly walkthrough of letters, speed, and scoring.",
+          "href": "/mechanics/spelling-race-how-to-play",
+          "displayType": "step-by-step",
           "highlights": [
             {
-              "label": "Code",
-              "detail": "COMING-SOON — No active codes currently available"
+              "label": "1",
+              "detail": "Join a lobby of up to 12 players and wait for the countdown."
             },
             {
-              "label": "Code",
-              "detail": "STAY-TUNED — Check back soon for new codes"
+              "label": "2",
+              "detail": "Read the whole word on screen before typing the first letter."
             },
             {
-              "label": "Tip",
-              "detail": "Codes are case-sensitive; enter them in the Settings menu"
+              "label": "3",
+              "detail": "Type the answer exactly — one wrong letter stalls your run."
+            },
+            {
+              "label": "4",
+              "detail": "Submit as soon as the last letter lands; hesitation costs blocks."
+            },
+            {
+              "label": "5",
+              "detail": "Collect blocks based on how fast and how clean the answer was."
+            },
+            {
+              "label": "6",
+              "detail": "Re-queue and repeat the loop to build muscle memory."
             }
           ]
         },
         {
           "order": 2,
-          "name": "Beginner Guide: How to Start & Serve Customers",
-          "description": "Step-by-step beginner guide covering customer ordering, food prep, station management, and cashier checkout mechanics.",
-          "href": "/guide/spelling-race-beginner-guide",
-          "displayType": "feature-cards",
+          "name": "SpellingRace Game Modes",
+          "description": "Compare every documented SpellingRace mode, from Easy and Hard to Challenge, Spelling Bee, and the Water Race edition, and see which one to practice next.",
+          "href": "/modes",
+          "displayType": "card-list",
           "highlights": [
             {
-              "label": "Step 1",
-              "detail": "Take customer order at the stall front"
+              "label": "Easy Mode",
+              "detail": "Shorter, common words that teach the round rhythm without pressure."
             },
             {
-              "label": "Step 2",
-              "detail": "Cook seafood on the grill or boil station"
+              "label": "Hard Mode",
+              "detail": "Longer, trickier prompts that scale up as your accuracy improves."
             },
             {
-              "label": "Step 3",
-              "detail": "Serve warm food promptly for maximum customer tips"
+              "label": "Challenge",
+              "detail": "Timed runs that push your reading and typing speed at the same time."
+            },
+            {
+              "label": "Bee Mode",
+              "detail": "A race-style spelling bee where a miss costs time, not elimination."
+            },
+            {
+              "label": "Water Race",
+              "detail": "A themed course variant that adds movement to the spelling loop."
             }
           ]
         },
         {
           "order": 3,
-          "name": "Seafood & Fish Tier List",
-          "description": "Complete breakdown of all catchable fish and seafood ranked by market value, customer demand, and profit margins.",
-          "href": "/seafood/spelling-race-tier-list",
-          "displayType": "tier-grid",
+          "name": "SpellingRace Tips and Tricks",
+          "description": "Practical SpellingRace strategies for reading words faster, typing cleanly under pressure, and recovering from a mistyped letter without losing the round.",
+          "href": "/guide/spelling-race-tips",
+          "displayType": "card-list",
           "highlights": [
             {
-              "label": "S Tier",
-              "detail": "King Crab · Lobster Boil — Highest profit per customer"
+              "label": "Home Row",
+              "detail": "Rest fingers on ASDF and JKL so your hands never leave the keys mid-word."
             },
             {
-              "label": "A Tier",
-              "detail": "Salmon · Jumbo Shrimp · Tuna Steak — Reliable fast earners"
+              "label": "Chunking",
+              "detail": "Break long words into chunks like com-put-er instead of reading letter by letter."
             },
             {
-              "label": "B Tier",
-              "detail": "Clams · Oysters · Squid — Great mid-game margin"
+              "label": "Accuracy",
+              "detail": "Type at a steady pace — clean words beat fast words with corrections."
             },
             {
-              "label": "C Tier",
-              "detail": "Common Sardines · Small Crab — Starter seafood"
+              "label": "Recovery",
+              "detail": "Fix only the wrong letter with Backspace instead of retyping the whole word."
             }
           ]
         },
         {
           "order": 4,
-          "name": "Best Upgrades Progression",
-          "description": "Optimal order to spend your cash: expand kitchen stations, hire waitstaff, speed up grills, and upgrade seating.",
-          "href": "/upgrades/spelling-race-best-upgrades",
-          "displayType": "feature-cards",
+          "name": "SpellingRace Levels and Progression",
+          "description": "See how SpellingRace progression works: earning blocks every round, stepping up from Easy to Hard Mode, and measuring your own accuracy and seconds per word.",
+          "href": "/modes/spelling-race-hard-level",
+          "displayType": "step-by-step",
           "highlights": [
             {
-              "label": "Priority 1",
-              "detail": "Cooking Speed & Extra Burners — Clears customer backlog"
+              "label": "1",
+              "detail": "Start in Easy Mode to learn the round rhythm without time pressure."
             },
             {
-              "label": "Priority 2",
-              "detail": "Customer Seating Capacity — Increases simultaneous diners"
+              "label": "2",
+              "detail": "Earn blocks every round — faster, cleaner answers pay more."
             },
             {
-              "label": "Priority 3",
-              "detail": "Auto-Chef / Waiter Staff — Passive hands-free revenue"
+              "label": "3",
+              "detail": "Move to Hard Mode once you clear words without corrections."
+            },
+            {
+              "label": "4",
+              "detail": "Use Challenge and Spelling Bee modes to test longer word pools."
+            },
+            {
+              "label": "5",
+              "detail": "Track accuracy and seconds per word to see your progress."
             }
           ]
         },
         {
           "order": 5,
-          "name": "How to Get Cash Fast",
-          "description": "Top money-making strategies, VIP evaluation, tip maximization, and high-efficiency serving tips.",
-          "href": "/guide/spelling-race-how-to-get-cash-fast",
-          "displayType": "feature-cards",
+          "name": "SpellingRace Words and Vocabulary",
+          "description": "Sort SpellingRace words into difficulty tiers, drill the trap words that decide close races, and rotate categories so your practice list never goes stale.",
+          "href": "/guide/spelling-race-word-list",
+          "displayType": "tier-grid",
           "highlights": [
             {
-              "label": "Combo",
-              "detail": "Chain orders quickly to build the Customer Happiness multiplier"
+              "label": "S",
+              "detail": "9+ letters: accommodate, occurrence, conscientious — vowel patterns and schwa sounds."
             },
             {
-              "label": "High Margin",
-              "detail": "Focus high-tier seafood boils during peak customer rush hours"
+              "label": "A",
+              "detail": "7-8 letters: separate, receive, rhythm, luggage — silent letters and double consonants."
             },
             {
-              "label": "Reinvest",
-              "detail": "Keep 20% cash reserve for fresh ingredient replenishment"
+              "label": "B",
+              "detail": "5-6 letters: friend, orange, planet, bridge — blends, digraphs, and common endings."
+            },
+            {
+              "label": "C",
+              "detail": "3-4 letters: cat, jump, dish, tree — letter order and quick recall."
             }
           ]
         },
         {
           "order": 6,
-          "name": "Plot Expansion & Stand Customization",
-          "description": "Unlock bigger land plots, arrange optimal cooking layouts, and add high-value decorative upgrades.",
-          "href": "/upgrades/spelling-race-how-to-upgrade-plot",
-          "displayType": "feature-cards",
+          "name": "SpellingRace Controls Guide",
+          "description": "A quick reference to the SpellingRace controls: the letter keys, the submit key, and the correction key that keep a round moving.",
+          "href": "/mechanics/spelling-race-fastest-typing",
+          "displayType": "code-cards",
           "highlights": [
             {
-              "label": "Plot 1",
-              "detail": "Starter Beach Stand (3 Tables, 1 Grill)"
+              "label": "A-Z",
+              "detail": "Type the full word shown on screen; exact spelling is required to advance."
             },
             {
-              "label": "Plot 2",
-              "detail": "Boardwalk Restaurant (6 Tables, 2 Grills, Boil Station)"
+              "label": "Enter",
+              "detail": "Submit your answer the moment the last letter lands."
             },
             {
-              "label": "Plot 3",
-              "detail": "Luxury Pier Seafood Pavilion (Full Automation & VIP Seating)"
+              "label": "Backspace",
+              "detail": "Correct a slip by fixing only the wrong letter."
+            },
+            {
+              "label": "Home Row",
+              "detail": "Keep fingers on ASDF and JKL so no reach is wasted."
+            }
+          ]
+        },
+        {
+          "order": 7,
+          "name": "SpellingRace Platforms and Download",
+          "description": "Find where to play SpellingRace — the official Roblox experience, the browser-play option, and free private servers for practicing with friends.",
+          "href": "/platforms/spelling-race-online",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Roblox",
+              "detail": "Play the official SpellingRace experience on the Roblox platform."
+            },
+            {
+              "label": "Browser",
+              "detail": "Jump into a SpellingRace match from a web browser with no download."
+            },
+            {
+              "label": "Mobile",
+              "detail": "Install the app and play the same spelling rounds on the go."
+            },
+            {
+              "label": "Private",
+              "detail": "Free private servers let you rehearse the prompt cadence with friends."
+            }
+          ]
+        },
+        {
+          "order": 8,
+          "name": "SpellingRace Learning Benefits",
+          "description": "What SpellingRace practice actually trains: word recognition, spelling patterns, and typing confidence that carries into classroom bees and everyday writing.",
+          "href": "/guide/spelling-race-practice",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Recall",
+              "detail": "Recognizing a word at a glance instead of sounding it out letter by letter."
+            },
+            {
+              "label": "Patterns",
+              "detail": "Repeating -tion, double-consonant, and ie/ei clusters until they fire on their own."
+            },
+            {
+              "label": "Focus",
+              "detail": "Staying calm under a visible timer and committing to an answer."
+            },
+            {
+              "label": "Practice",
+              "detail": "Short, repeatable sessions that beat marathon cramming for retention."
             }
           ]
         }
       ]
     },
     "faq": {
-      "title": "Frequently Asked Questions",
-      "description": "Quick answers to the most common questions about Spelling Race.",
+      "title": "SpellingRace FAQ",
+      "description": "Straight answers to the questions new players ask most about SpellingRace.",
       "items": [
         {
-          "question": "What is Spelling Race?",
-          "answer": "Spelling Race is a free-to-play fighting RPG on Roblox based on the Bleach anime. You choose one of game mechanics Shinigami (Soul Reaper), Quincy, or Hollow each with unique progression, combat abilities, and evolution systems. The game features 130+ skills, a level 100 cap, boss fights, and deep build customization."
+          "question": "What is SpellingRace?",
+          "answer": "SpellingRace is a free-to-play Roblox spelling game from Team Ry LLC. A word appears on screen, you type it as fast as you can, and each correct answer earns blocks. Servers hold up to 12 players, and private servers are free."
         },
         {
-          "question": "Which race should beginners pick?",
-          "answer": "Shinigami is the most straightforward starter race, while Hollow and Quincy offer more specialized progression routes. Compare their abilities before committing."
+          "question": "Does SpellingRace have codes?",
+          "answer": "No. SpellingRace has no redeem-code system at all — there is no code box, no promo field, and no strings published by the developer. Rewards come from answering correctly and quickly, not from promo codes."
         },
         {
-          "question": "What is the current level cap?",
-          "answer": "The current level cap is 100, with more than 130 skills available across trees and race progression systems."
+          "question": "Is SpellingRace free to play?",
+          "answer": "Yes. SpellingRace is free on Roblox, and Team Ry LLC also supports free private servers so you can practice with friends instead of strangers."
         },
         {
-          "question": "Where do I find active codes?",
-          "answer": "Use the Codes page for working codes, rewards, expiration notes, and redeem instructions."
+          "question": "How do I earn more blocks in SpellingRace?",
+          "answer": "Answer correctly and fast. Clean typing with no backspacing keeps your average reward per round high, and speed adds to the reward on top of the base payout for a correct spelling."
         },
         {
-          "question": "Are boss guides updated?",
-          "answer": "Boss pages are organized with spawn notes, attack patterns, strategies, drop tables, and related next steps for progression."
+          "question": "Which SpellingRace mode should a beginner start with?",
+          "answer": "Start with Easy Mode to learn the round rhythm, then move up to Hard Mode once you can finish words without corrections."
         }
       ]
     },
