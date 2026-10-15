@@ -1,1 +1,494 @@
-{}
+{
+  "site": {
+    "name": "SpellingRace Wiki",
+    "shortName": "SpellingRace",
+    "tagline": "완벽 가이드, 팁, 게임플레이 및 전략",
+    "description": "Roblox Spelling Race 완전 정복 가이드! 철자 팁, 단어 레이스 전략, 블록 보상, 멀티플레이 기능, 초보자 가이드를 확인하세요.",
+    "legalNotice": "비공식 팬 위키입니다. 플레이어가 플레이어를 위해 만들었습니다."
+  },
+  "nav": {
+    "home": "홈",
+    "menu": "메뉴",
+    "toggleTheme": "테마 전환",
+    "guide": "가이드",
+    "modes": "모드",
+    "mechanics": "시스템",
+    "codes": "코드",
+    "platforms": "플랫폼",
+    "community": "커뮤니티",
+    "social": "소셜"
+  },
+  "home": {
+    "meta": {
+      "title": "SpellingRace Wiki - 가이드, 팁 및 게임플레이",
+      "description": "Spelling Race 가이드, 철자 팁, 조작법, 멀티플레이 기능을 살펴보세요. 더 빠르게 정답을 입력하고 블록을 더 많이 벌며 Roblox에서 친구와 겨뤄 보세요."
+    },
+    "hero": {
+      "eyebrow": "속도로 승부하는 철자 대결",
+      "title": "SpellingRace Wiki",
+      "description": "Spelling Race의 게임플레이, 철자 전략, 초보자 팁, 조작법, 멀티플레이 기능을 살펴보세요. 더 빠르게 정답을 입력하고 블록을 더 많이 벌며 친구와 겨뤄 보세요.",
+      "stats": [
+        "Roblox 철자 챌린지",
+        "스피드 단어 레이스",
+        "블록 보상",
+        "비공개 서버"
+      ],
+      "primaryCta": "초보자 가이드",
+      "secondaryCta": "철자 팁",
+      "tertiaryCta": "사용 가능한 코드",
+      "videoLabel": "게임플레이 영상"
+    },
+    "updates": {
+      "title": "최신 업데이트",
+      "browse": "모든 가이드 보기",
+      "viewAll": "전체 보기"
+    },
+    "start": {
+      "eyebrow": "여기서 시작하세요",
+      "title": "SpellingRace 시작하기",
+      "cards": [
+        {
+          "number": "1",
+          "title": "초보자 가이드",
+          "description": "라운드 흐름, 읽기 습관, 홈 포지션 규율을 익혀 첫 SpellingRace 플레이를 깔끔한 승리로 바꿔 보세요."
+        },
+        {
+          "number": "2",
+          "title": "타이핑 속도",
+          "description": "12인 SpellingRace 라운드마다 승부를 가르는 키 입력 정확도와 반응 속도를 키우세요."
+        },
+        {
+          "number": "3",
+          "title": "단어 목록",
+          "description": "난이도 단계, 함정 단어, 기억법을 익혀 어떤 SpellingRace 문제에도 당황하지 마세요."
+        },
+        {
+          "number": "4",
+          "title": "코드 상태",
+          "description": "SpellingRace 코드의 정확한 상태와 게임에서 실제로 블록을 버는 방법을 확인하세요."
+        }
+      ]
+    },
+    "popular": {
+      "eyebrow": "인기 페이지",
+      "title": "지금 인기 있는 글",
+      "quickLinks": [
+        "플레이 방법",
+        "단어 목록",
+        "타이핑 속도",
+        "초보자 가이드"
+      ],
+      "cards": [
+        {
+          "badge": "초보자",
+          "title": "초보자 가이드",
+          "description": "라운드 흐름, 타이핑 훈련, 첫 플레이부터 골드를 버는 습관을 정리했습니다.",
+          "href": "/guide/spelling-race-beginner-guide"
+        },
+        {
+          "badge": "업데이트됨",
+          "title": "코드 상태",
+          "description": "SpellingRace 코드의 정확한 상태와 블록을 실제로 버는 방법.",
+          "href": "/codes/spelling-race-codes"
+        },
+        {
+          "badge": "가이드",
+          "title": "단어 목록과 난이도 단계",
+          "description": "워밍업부터 전문가 단계까지, 접전을 가르는 함정 단어와 함께 정리했습니다.",
+          "href": "/guide/spelling-race-word-list"
+        },
+        {
+          "badge": "인기",
+          "title": "타이핑 속도",
+          "description": "빠른 손끝을 라운드당 더 많은 블록으로 바꾸는 WPM 기준과 훈련법.",
+          "href": "/mechanics/spelling-race-typing-speed"
+        },
+        {
+          "badge": "인기",
+          "title": "플레이 방법",
+          "description": "첫 라운드부터 최고 점수까지 설정, 조작, 점수, 카테고리 옵션을 다룹니다.",
+          "href": "/mechanics/spelling-race-how-to-play"
+        },
+        {
+          "badge": "가이드",
+          "title": "Spelling Race 팁",
+          "description": "자세, 단어 패턴, 실수 복구, 꾸준히 지킬 수 있는 매일 루틴.",
+          "href": "/guide/spelling-race-tips"
+        },
+        {
+          "badge": "신규",
+          "title": "게임 모드",
+          "description": "이지, 하드, 챌린지, 스펠링 비, Water Race 에디션 비교.",
+          "href": "/modes"
+        },
+        {
+          "badge": "신규",
+          "title": "플랫폼 및 다운로드",
+          "description": "SpellingRace를 온라인, 브라우저, 모바일에서 무료로 즐길 수 있는 곳.",
+          "href": "/platforms/spelling-race-online"
+        },
+        {
+          "badge": "가이드",
+          "title": "연습 루틴",
+          "description": "장시간 몰아치기보다 효과적인, 짧고 반복 가능한 연습 세션.",
+          "href": "/guide/spelling-race-practice"
+        }
+      ]
+    },
+    "aboutGame": {
+      "title": "SpellingRace란?",
+      "paragraphs": [
+        "SpellingRace는 인증된 개발자 계정인 Team Ry LLC가 만든 Roblox 무료 철자 게임입니다. 화면에 단어가 나타나면 정확히 입력하고, 답은 얼마나 빠르고 깔끔했는지로 채점됩니다. 게임이 내세우는 방식은 단순합니다. 빠르게 답할수록 블록을 더 많이 법니다. 서버는 최대 12명까지 수용하며 비공개 서버는 무료입니다.",
+        "스토리도, 재화 상점도, 코드 교환 메뉴도 없습니다. 단어와 타이머, 그리고 점수판뿐입니다. 커뮤니티 추적 사이트의 기록에 따르면 SpellingRace는 약 8,870만 회 방문, 긍정 평가 89.6%, 평균 플레이 시간 약 9분을 기록했습니다. 그래서 이 위키는 짧고 반복 가능한 연습에 집중합니다. 단어 목록, 타이핑 훈련, 모드 분석, 그리고 라운드의 첫 1초를 좌우하는 습관입니다."
+      ],
+      "stats": [
+        {
+          "label": "개발자",
+          "value": "Team Ry LLC"
+        },
+        {
+          "label": "플랫폼",
+          "value": "Roblox"
+        },
+        {
+          "label": "장르",
+          "value": "파티 및 캐주얼"
+        },
+        {
+          "label": "서버당 인원",
+          "value": "12"
+        },
+        {
+          "label": "방문 수",
+          "value": "8,870만+"
+        },
+        {
+          "label": "긍정 평가",
+          "value": "89.6%"
+        },
+        {
+          "label": "즐겨찾기",
+          "value": "12.2만+"
+        }
+      ],
+      "cta": "모든 가이드 살펴보기"
+    },
+    "explore": {
+      "title": "SpellingRace Wiki 둘러보기",
+      "description": "SpellingRace의 모든 시스템을 한곳에 모았습니다. 라운드 진행 방식, 전체 모드 목록, 단어 난이도 단계, 조작법, 플랫폼, 그리고 블록을 더 많이 버는 연습 습관까지.",
+      "modules": [
+        {
+          "order": 1,
+          "name": "SpellingRace 플레이 방법",
+          "description": "문제를 읽고, 단어를 입력하고, 시간이 끝나기 전에 제출하는 SpellingRace의 핵심 흐름을 문자, 속도, 점수에 대한 초보자용 설명과 함께 익히세요.",
+          "href": "/mechanics/spelling-race-how-to-play",
+          "displayType": "step-by-step",
+          "highlights": [
+            {
+              "label": "1",
+              "detail": "최대 12명의 로비에 참가해 카운트다운을 기다립니다."
+            },
+            {
+              "label": "2",
+              "detail": "첫 글자를 입력하기 전에 화면의 단어를 끝까지 읽습니다."
+            },
+            {
+              "label": "3",
+              "detail": "정답을 정확히 입력하세요. 한 글자만 틀려도 라운드가 멈춥니다."
+            },
+            {
+              "label": "4",
+              "detail": "마지막 글자가 들어오는 즉시 제출하세요. 망설이면 블록을 잃습니다."
+            },
+            {
+              "label": "5",
+              "detail": "답이 얼마나 빠르고 깔끔했는지에 따라 블록을 획득합니다."
+            },
+            {
+              "label": "6",
+              "detail": "다시 대기열에 들어가 이 흐름을 반복하며 몸에 익히세요."
+            }
+          ]
+        },
+        {
+          "order": 2,
+          "name": "SpellingRace 게임 모드",
+          "description": "이지와 하드부터 챌린지, 스펠링 비, Water Race 에디션까지 문서화된 SpellingRace의 모든 모드를 비교하고 다음에 연습할 모드를 찾아보세요.",
+          "href": "/modes",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "이지 모드",
+              "detail": "부담 없이 라운드 리듬을 익힐 수 있는 짧고 흔한 단어."
+            },
+            {
+              "label": "하드 모드",
+              "detail": "정확도가 오를수록 난이도가 함께 올라가는 길고 까다로운 문제."
+            },
+            {
+              "label": "챌린지",
+              "detail": "읽기 속도와 타이핑 속도를 동시에 시험하는 시간 제한 라운드."
+            },
+            {
+              "label": "비 모드",
+              "detail": "실수해도 탈락이 아니라 시간만 잃는, 레이스 형식의 스펠링 비."
+            },
+            {
+              "label": "Water Race",
+              "detail": "철자 흐름에 이동 요소를 더한 테마 코스 변형."
+            }
+          ]
+        },
+        {
+          "order": 3,
+          "name": "SpellingRace 팁과 요령",
+          "description": "단어를 더 빠르게 읽고, 압박 속에서도 정확하게 입력하고, 오타가 나도 라운드를 놓치지 않고 복구하는 실전 SpellingRace 전략.",
+          "href": "/guide/spelling-race-tips",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "홈 포지션",
+              "detail": "손가락을 ASDF와 JKL에 두어 단어 중간에 손이 키를 떠나지 않게 하세요."
+            },
+            {
+              "label": "묶어 읽기",
+              "detail": "긴 단어는 com-put-er처럼 묶어서 읽고, 한 글자씩 읽지 마세요."
+            },
+            {
+              "label": "정확도",
+              "detail": "일정한 속도로 입력하세요. 수정이 있는 빠른 입력보다 깔끔한 입력이 낫습니다."
+            },
+            {
+              "label": "복구",
+              "detail": "단어 전체를 다시 입력하지 말고 Backspace로 틀린 글자만 고치세요."
+            }
+          ]
+        },
+        {
+          "order": 4,
+          "name": "SpellingRace 레벨과 성장",
+          "description": "SpellingRace의 성장 구조를 알아보세요. 라운드마다 블록을 벌고, 이지에서 하드 모드로 올라가고, 자신의 정확도와 단어당 소요 시간을 측정하는 방법입니다.",
+          "href": "/modes/spelling-race-hard-level",
+          "displayType": "step-by-step",
+          "highlights": [
+            {
+              "label": "1",
+              "detail": "먼저 이지 모드에서 시간 압박 없이 라운드 리듬을 익히세요."
+            },
+            {
+              "label": "2",
+              "detail": "라운드마다 블록을 획득하세요. 빠르고 깔끔한 답일수록 더 많이 법니다."
+            },
+            {
+              "label": "3",
+              "detail": "수정 없이 단어를 끝낼 수 있게 되면 하드 모드로 이동하세요."
+            },
+            {
+              "label": "4",
+              "detail": "챌린지와 스펠링 비 모드로 더 긴 단어 풀에 도전하세요."
+            },
+            {
+              "label": "5",
+              "detail": "정확도와 단어당 소요 시간을 기록해 발전을 확인하세요."
+            }
+          ]
+        },
+        {
+          "order": 5,
+          "name": "SpellingRace 단어와 어휘",
+          "description": "SpellingRace 단어를 난이도 단계로 분류하고, 접전을 가르는 함정 단어를 연습하고, 카테고리를 돌려 연습 목록이 낡지 않게 유지하세요.",
+          "href": "/guide/spelling-race-word-list",
+          "displayType": "tier-grid",
+          "highlights": [
+            {
+              "label": "S",
+              "detail": "9자 이상: accommodate, occurrence, conscientious — 모음 패턴과 슈와 음."
+            },
+            {
+              "label": "A",
+              "detail": "7~8자: separate, receive, rhythm, luggage — 묵음과 이중 자음."
+            },
+            {
+              "label": "B",
+              "detail": "5~6자: friend, orange, planet, bridge — 자음 연속, 이중자, 흔한 어미."
+            },
+            {
+              "label": "C",
+              "detail": "3~4자: cat, jump, dish, tree — 글자 순서와 빠른 기억."
+            }
+          ]
+        },
+        {
+          "order": 6,
+          "name": "SpellingRace 조작 가이드",
+          "description": "SpellingRace 조작 빠른 참고표입니다. 라운드를 굴러가게 하는 문자 키, 제출 키, 수정 키를 정리했습니다.",
+          "href": "/mechanics/spelling-race-fastest-typing",
+          "displayType": "code-cards",
+          "highlights": [
+            {
+              "label": "A-Z",
+              "detail": "화면에 표시된 단어를 끝까지 입력하세요. 진행하려면 정확한 철자가 필요합니다."
+            },
+            {
+              "label": "Enter",
+              "detail": "마지막 글자가 들어오는 순간 답을 제출하세요."
+            },
+            {
+              "label": "Backspace",
+              "detail": "틀린 글자만 고쳐 실수를 바로잡으세요."
+            },
+            {
+              "label": "홈 포지션",
+              "detail": "손가락을 ASDF와 JKL에 두어 불필요한 손 이동을 없애세요."
+            }
+          ]
+        },
+        {
+          "order": 7,
+          "name": "SpellingRace 플랫폼과 다운로드",
+          "description": "SpellingRace를 즐길 수 있는 곳을 찾아보세요. 공식 Roblox 체험, 브라우저 플레이 옵션, 친구와 연습할 수 있는 무료 비공개 서버까지.",
+          "href": "/platforms/spelling-race-online",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Roblox",
+              "detail": "Roblox 플랫폼에서 공식 SpellingRace 체험을 플레이하세요."
+            },
+            {
+              "label": "브라우저",
+              "detail": "다운로드 없이 웹 브라우저에서 SpellingRace 경기에 참여하세요."
+            },
+            {
+              "label": "모바일",
+              "detail": "앱을 설치하면 이동 중에도 같은 철자 라운드를 즐길 수 있습니다."
+            },
+            {
+              "label": "비공개",
+              "detail": "무료 비공개 서버에서 친구와 문제 템포를 연습할 수 있습니다."
+            }
+          ]
+        },
+        {
+          "order": 8,
+          "name": "SpellingRace 학습 효과",
+          "description": "SpellingRace 연습이 실제로 길러 주는 것들. 단어 인식, 철자 패턴, 그리고 교실 철자 대회와 일상 글쓰기까지 이어지는 타이핑 자신감입니다.",
+          "href": "/guide/spelling-race-practice",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "기억",
+              "detail": "한 글자씩 소리 내어 읽는 대신 단어를 한눈에 알아보기."
+            },
+            {
+              "label": "패턴",
+              "detail": "-tion, 이중 자음, ie/ei 묶음을 저절로 반응할 때까지 반복하기."
+            },
+            {
+              "label": "집중",
+              "detail": "눈에 보이는 타이머 아래에서도 침착하게 답을 정하고 밀어붙이기."
+            },
+            {
+              "label": "연습",
+              "detail": "기억에 남기려면 장시간 몰아치기보다 짧고 반복적인 세션이 낫습니다."
+            }
+          ]
+        }
+      ]
+    },
+    "faq": {
+      "title": "SpellingRace 자주 묻는 질문",
+      "description": "SpellingRace에 대해 신규 플레이어가 가장 많이 묻는 질문에 명쾌하게 답합니다.",
+      "items": [
+        {
+          "question": "SpellingRace란?",
+          "answer": "SpellingRace는 Team Ry LLC가 만든 Roblox 무료 철자 게임입니다. 화면에 단어가 나타나면 최대한 빠르게 입력하고, 정답을 맞힐 때마다 블록을 획득합니다. 서버는 최대 12명까지 수용하며 비공개 서버는 무료입니다."
+        },
+        {
+          "question": "SpellingRace에 코드가 있나요?",
+          "answer": "아니요. SpellingRace에는 코드 교환 시스템이 전혀 없습니다. 코드 입력창도, 프로모션 입력란도, 개발자가 공개한 코드 문자열도 없습니다. 보상은 프로모 코드가 아니라 정확하고 빠른 정답에서 나옵니다."
+        },
+        {
+          "question": "SpellingRace는 무료인가요?",
+          "answer": "네. SpellingRace는 Roblox에서 무료이며, Team Ry LLC는 무료 비공개 서버도 지원하므로 낯선 사람이 아니라 친구와 함께 연습할 수 있습니다."
+        },
+        {
+          "question": "SpellingRace에서 블록을 더 많이 버는 방법은?",
+          "answer": "정확하고 빠르게 답하세요. Backspace를 쓰지 않는 깔끔한 타이핑은 라운드당 평균 보상을 높게 유지하고, 속도는 정확한 철자에 대한 기본 보상 위에 추가로 더해집니다."
+        },
+        {
+          "question": "초보자는 어떤 모드로 시작해야 하나요?",
+          "answer": "먼저 이지 모드로 라운드 리듬을 익히고, 수정 없이 단어를 끝낼 수 있게 되면 하드 모드로 올라가세요."
+        }
+      ]
+    },
+    "finalCta": {
+      "title": "더 많은 철자 레이스에서 이길 준비가 되셨나요?",
+      "description": "첫 철자 라운드부터 더 빨라진 반응 속도까지, 커뮤니티 위키가 무료로 최신 가이드와 조작법, 멀티플레이 팁을 제공합니다.",
+      "primary": "초보자 가이드 읽기",
+      "secondary": "Roblox에서 플레이"
+    }
+  },
+  "guide": {
+    "overviewTitle": "SpellingRace 가이드 — 초보자 가이드, 팁, 정답",
+    "overviewDescription": "SpellingRace의 모든 가이드를 한곳에 모았습니다. 초보자용 워크스루, 전체 단어 목록, 연습 루틴, 어려운 단어, 정답 참고 자료로 Roblox에서 더 많은 라운드를 이겨 보세요."
+  },
+  "modes": {
+    "overviewTitle": "SpellingRace 게임 모드 — 이지, 하드, 챌린지, 스펠링 비",
+    "overviewDescription": "이지와 하드 라운드부터 스펠링 비와 챌린지 변형까지 SpellingRace의 모든 게임 모드를 비교하고, 자신의 타이핑 실력에 맞는 모드를 찾아보세요."
+  },
+  "mechanics": {
+    "overviewTitle": "SpellingRace 시스템 — 플레이 방법, 타이핑 속도, 아슬아슬한 정답",
+    "overviewDescription": "SpellingRace 라운드가 실제로 어떻게 진행되는지 이해하세요. 라운드 흐름, 타이핑 속도, 아슬아슬한 정답, 어려운 단어, 그리고 각 단어를 가장 빠르게 통과하는 방법."
+  },
+  "codes": {
+    "overviewTitle": "SpellingRace 코드 — 사용 가능한 코드와 사용 방법",
+    "overviewDescription": "알려진 모든 SpellingRace 코드를 추적하고, 어떤 코드가 아직 살아 있는지 확인하며, 단계별 사용 절차를 따라 무료 보상을 놓치지 마세요."
+  },
+  "platforms": {
+    "overviewTitle": "SpellingRace 플랫폼 — Roblox, 모바일, 앱, 무료 플레이",
+    "overviewDescription": "SpellingRace를 즐길 수 있는 곳을 확인하세요. Roblox 체험 페이지, 모바일과 앱 옵션, 브라우저 버전, 그리고 계속 무료로 남는 범위까지."
+  },
+  "community": {
+    "overviewTitle": "SpellingRace 커뮤니티 — Discord, 업데이트, 새 버전",
+    "overviewDescription": "SpellingRace 커뮤니티 허브를 팔로우해 Discord 초대, 패치 노트, 업데이트 기록, 새 버전 정보를 Roblox 체험의 변화와 함께 확인하세요."
+  },
+  "social": {
+    "overviewTitle": "SpellingRace 소셜 — 밈, 실패, 웃긴 순간",
+    "overviewDescription": "SpellingRace의 즐거운 면. 밈, 실패, 웃긴 순간, brainrot 편집, YouTube 하이라이트, 그리고 플레이어들이 자꾸 돌아오는 Reddit 스레드까지."
+  },
+  "shared": {
+    "wikiNavigation": "위키 내비게이션",
+    "activeCodes": "사용 가능한 코드",
+    "updated": "업데이트",
+    "viewAllCodes": "모든 코드 보기",
+    "playOnRoblox": "Roblox에서 플레이",
+    "inThisSection": "이 섹션에서",
+    "tableOfContents": "목차",
+    "nextSteps": "다음 단계",
+    "needHelp": "도움이 필요하신가요?",
+    "relatedReading": "관련 읽을거리",
+    "relatedGuides": "관련 가이드",
+    "readMore": "더 보기",
+    "officialMedia": "공식 미디어",
+    "home": "홈",
+    "noGuidesAvailable": "아직 가이드가 없습니다. 곧 다시 확인해 주세요!"
+  },
+  "footer": {
+    "aboutTitle": "SpellingRace Wiki",
+    "about": "SpellingRace Wiki는 철자 게임플레이, 단어 레이스 전략, 조작법, 블록 보상, 멀티플레이 팁, 그리고 신규와 숙련 플레이어 모두에게 필요한 게임 지식을 다루는 팬 제작 독립 가이드 허브입니다.",
+    "quickLinks": "빠른 링크",
+    "guides": "가이드",
+    "legal": "법적 고지",
+    "copyright": "2026 SpellingRace Wiki. Team Ry LLC 및 Roblox와 무관합니다.",
+    "description": "무료 Roblox 철자 레이스. 빠르게 답하고 블록을 더 많이 벌며 친구와 겨뤄 보세요.",
+    "playGame": "Roblox에서 Spelling Race 플레이",
+    "officialDiscord": "Roblox Discord",
+    "officialYoutube": "Roblox YouTube",
+    "vvBuilder": "커뮤니티 도구",
+    "beginnerGuide": "초보자 가이드",
+    "gameModes": "게임 모드",
+    "allCodes": "모든 코드",
+    "privacyPolicy": "개인정보 처리방침",
+    "termsOfService": "이용약관"
+  }
+}

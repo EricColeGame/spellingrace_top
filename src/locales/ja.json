@@ -1,1 +1,494 @@
-{}
+{
+  "site": {
+    "name": "SpellingRace Wiki",
+    "shortName": "SpellingRace",
+    "tagline": "完全ガイド・コツ・ゲームプレイ・攻略",
+    "description": "RobloxのSpelling Raceを徹底解説！スペリングのコツ、単語レースの戦略、ブロック報酬、マルチプレイ機能、初心者ガイドをまとめました。",
+    "legalNotice": "非公式のファンウィキです。プレイヤーがプレイヤーのために作っています。"
+  },
+  "nav": {
+    "home": "ホーム",
+    "menu": "メニュー",
+    "toggleTheme": "テーマ切替",
+    "guide": "ガイド",
+    "modes": "モード",
+    "mechanics": "仕組み",
+    "codes": "コード",
+    "platforms": "対応環境",
+    "community": "コミュニティ",
+    "social": "SNS"
+  },
+  "home": {
+    "meta": {
+      "title": "SpellingRace Wiki - ガイド・コツ・ゲームプレイ",
+      "description": "Spelling Raceのガイド、スペリングのコツ、操作方法、マルチプレイ機能を紹介。より速く解答し、ブロックを稼ぎ、Robloxで友達と競おう。"
+    },
+    "hero": {
+      "eyebrow": "スピード勝負のスペリング対決",
+      "title": "SpellingRace Wiki",
+      "description": "Spelling Raceのゲームプレイ、スペリング戦略、初心者向けのコツ、操作方法、マルチプレイ機能を紹介。より速く解答し、ブロックを稼ぎ、友達と競おう。",
+      "stats": [
+        "Robloxのスペリング挑戦",
+        "スピード単語レース",
+        "ブロック報酬",
+        "プライベートサーバー"
+      ],
+      "primaryCta": "初心者ガイド",
+      "secondaryCta": "スペリングのコツ",
+      "tertiaryCta": "有効なコード",
+      "videoLabel": "ゲームプレイ動画"
+    },
+    "updates": {
+      "title": "最新アップデート",
+      "browse": "すべてのガイドを見る",
+      "viewAll": "すべて表示"
+    },
+    "start": {
+      "eyebrow": "はじめに",
+      "title": "SpellingRaceを始めよう",
+      "cards": [
+        {
+          "number": "1",
+          "title": "初心者ガイド",
+          "description": "ラウンドの流れ、読み方の習慣、ホームポジションの徹底を学び、最初のSpellingRaceをクリーンな勝利に変えよう。"
+        },
+        {
+          "number": "2",
+          "title": "タイピング速度",
+          "description": "12人対戦のSpellingRaceの各ラウンドを左右する、キー入力の正確さと反応速度を鍛えよう。"
+        },
+        {
+          "number": "3",
+          "title": "単語リスト",
+          "description": "難易度の段階、引っかけ単語、覚え方のコツを学び、SpellingRaceのお題に不意を突かれないようにしよう。"
+        },
+        {
+          "number": "4",
+          "title": "コードの状況",
+          "description": "SpellingRaceのコードの正確な状況と、ゲーム内で実際にブロックを稼ぐ方法を確認しよう。"
+        }
+      ]
+    },
+    "popular": {
+      "eyebrow": "人気ページ",
+      "title": "いま話題の記事",
+      "quickLinks": [
+        "遊び方",
+        "単語リスト",
+        "タイピング速度",
+        "初心者ガイド"
+      ],
+      "cards": [
+        {
+          "badge": "初心者",
+          "title": "初心者ガイド",
+          "description": "ラウンドの流れ、タイピング練習、初回から金を稼ぐ習慣をまとめました。",
+          "href": "/guide/spelling-race-beginner-guide"
+        },
+        {
+          "badge": "更新済み",
+          "title": "コードの状況",
+          "description": "SpellingRaceのコードの正確な状況と、ブロックを実際に稼ぐ方法。",
+          "href": "/codes/spelling-race-codes"
+        },
+        {
+          "badge": "ガイド",
+          "title": "単語リストと難易度",
+          "description": "ウォームアップから上級者向けの難易度まで、接戦を分ける引っかけ単語も紹介。",
+          "href": "/guide/spelling-race-word-list"
+        },
+        {
+          "badge": "人気",
+          "title": "タイピング速度",
+          "description": "WPMの目安と、速い指をラウンドごとのブロックに変える練習法。",
+          "href": "/mechanics/spelling-race-typing-speed"
+        },
+        {
+          "badge": "人気",
+          "title": "遊び方",
+          "description": "初回からハイスコアまでの設定、操作、得点、カテゴリー設定を解説。",
+          "href": "/mechanics/spelling-race-how-to-play"
+        },
+        {
+          "badge": "ガイド",
+          "title": "Spelling Raceのコツ",
+          "description": "姿勢、単語のパターン、ミスの立て直し、続けられる毎日のルーティン。",
+          "href": "/guide/spelling-race-tips"
+        },
+        {
+          "badge": "新着",
+          "title": "ゲームモード",
+          "description": "イージー、ハード、チャレンジ、スペリングビー、Water Race版を比較。",
+          "href": "/modes"
+        },
+        {
+          "badge": "新着",
+          "title": "対応環境とダウンロード",
+          "description": "SpellingRaceをオンライン、ブラウザ、モバイルで無料で遊べる場所。",
+          "href": "/platforms/spelling-race-online"
+        },
+        {
+          "badge": "ガイド",
+          "title": "練習ルーティン",
+          "description": "長時間の詰め込みより効果的な、短く繰り返せる練習メニュー。",
+          "href": "/guide/spelling-race-practice"
+        }
+      ]
+    },
+    "aboutGame": {
+      "title": "SpellingRaceとは？",
+      "paragraphs": [
+        "SpellingRaceは、認証済み開発者アカウントであるTeam Ry LLCが手がける、Robloxの無料スペリングゲームです。画面に単語が表示されるので、そのとおりに入力します。解答は速さと正確さで採点され、ゲーム自身が謳うとおり「速く答えるほど多くのブロックを稼げる」仕組みです。サーバーは最大12人まで、プライベートサーバーは無料です。",
+        "ストーリーも、通貨ショップも、コード引き換えメニューもありません。あるのは単語とタイマーとスコアボードだけです。コミュニティの追跡サイトの記録では、SpellingRaceは約8,870万回の訪問、肯定的評価89.6%、1回あたりのプレイ時間は約9分とされています。だからこそこのウィキは、短く繰り返せる練習に焦点を当てています。単語リスト、タイピング練習、モード解説、そして最初の1秒でラウンドを決める習慣です。"
+      ],
+      "stats": [
+        {
+          "label": "開発者",
+          "value": "Team Ry LLC"
+        },
+        {
+          "label": "プラットフォーム",
+          "value": "Roblox"
+        },
+        {
+          "label": "ジャンル",
+          "value": "パーティー・カジュアル"
+        },
+        {
+          "label": "1サーバーあたりの人数",
+          "value": "12"
+        },
+        {
+          "label": "訪問数",
+          "value": "8,870万+"
+        },
+        {
+          "label": "肯定的評価",
+          "value": "89.6%"
+        },
+        {
+          "label": "お気に入り",
+          "value": "12.2万+"
+        }
+      ],
+      "cta": "すべてのガイドを見る"
+    },
+    "explore": {
+      "title": "SpellingRace Wikiを探す",
+      "description": "SpellingRaceのすべての要素を一か所にまとめました。ラウンドの仕組み、モード一覧、単語の難易度、操作方法、対応環境、そしてブロックを稼ぐ練習の習慣です。",
+      "modules": [
+        {
+          "order": 1,
+          "name": "SpellingRaceの遊び方",
+          "description": "お題を読み、単語を入力し、時間切れ前に送信するというSpellingRaceの基本サイクルを、文字・速度・得点の初心者向け解説とともに学びましょう。",
+          "href": "/mechanics/spelling-race-how-to-play",
+          "displayType": "step-by-step",
+          "highlights": [
+            {
+              "label": "1",
+              "detail": "最大12人のロビーに参加し、カウントダウンを待ちます。"
+            },
+            {
+              "label": "2",
+              "detail": "最初の文字を打つ前に、画面の単語を最後まで読みます。"
+            },
+            {
+              "label": "3",
+              "detail": "解答は正確に入力しましょう。1文字でも違うとラウンドが止まります。"
+            },
+            {
+              "label": "4",
+              "detail": "最後の文字が入ったらすぐ送信。迷うとブロックを失います。"
+            },
+            {
+              "label": "5",
+              "detail": "解答の速さと正確さに応じてブロックを獲得します。"
+            },
+            {
+              "label": "6",
+              "detail": "再度キューに並び、このサイクルを繰り返して体に覚えさせましょう。"
+            }
+          ]
+        },
+        {
+          "order": 2,
+          "name": "SpellingRaceのゲームモード",
+          "description": "イージーやハードからチャレンジ、スペリングビー、Water Race版まで、確認されているSpellingRaceのモードを比較し、次に練習すべきモードを見つけましょう。",
+          "href": "/modes",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "イージーモード",
+              "detail": "短く一般的な単語で、プレッシャーなくラウンドのリズムを学べます。"
+            },
+            {
+              "label": "ハードモード",
+              "detail": "正確さが上がるにつれて難易度が上がる、長くて紛らわしいお題。"
+            },
+            {
+              "label": "チャレンジ",
+              "detail": "読む速さと打つ速さを同時に試される、時間制限付きのラウンド。"
+            },
+            {
+              "label": "ビーモード",
+              "detail": "ミスをしても脱落ではなく時間を失うだけの、レース形式のスペリングビー。"
+            },
+            {
+              "label": "Water Race",
+              "detail": "スペリングのサイクルに移動要素を加えた、テーマ付きコースの変種。"
+            }
+          ]
+        },
+        {
+          "order": 3,
+          "name": "SpellingRaceのコツと攻略",
+          "description": "単語をより速く読み、プレッシャーの中で正確に入力し、打ち間違いからラウンドを落とさず立て直すための実践的なSpellingRace戦略。",
+          "href": "/guide/spelling-race-tips",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "ホームポジション",
+              "detail": "指をASDFとJKLに置き、単語の途中で手がキーから離れないようにします。"
+            },
+            {
+              "label": "チャンク読み",
+              "detail": "長い単語はcom-put-erのように区切って読み、1文字ずつ読むのを避けます。"
+            },
+            {
+              "label": "正確さ",
+              "detail": "一定のペースで入力しましょう。修正ありの速さより、正確な入力が勝ります。"
+            },
+            {
+              "label": "立て直し",
+              "detail": "単語全体を打ち直さず、Backspaceで間違えた1文字だけを直します。"
+            }
+          ]
+        },
+        {
+          "order": 4,
+          "name": "SpellingRaceのレベルと成長",
+          "description": "SpellingRaceの成長の仕組みを解説します。毎ラウンドのブロック獲得、イージーからハードへのステップアップ、自分の正確さと1単語あたりの秒数の測定。",
+          "href": "/modes/spelling-race-hard-level",
+          "displayType": "step-by-step",
+          "highlights": [
+            {
+              "label": "1",
+              "detail": "まずイージーモードで、時間に追われずラウンドのリズムを覚えましょう。"
+            },
+            {
+              "label": "2",
+              "detail": "毎ラウンドでブロックを獲得。速く正確な解答ほど多くもらえます。"
+            },
+            {
+              "label": "3",
+              "detail": "修正なしで単語をクリアできるようになったらハードモードへ。"
+            },
+            {
+              "label": "4",
+              "detail": "チャレンジとスペリングビーモードで、より長い単語プールに挑戦しましょう。"
+            },
+            {
+              "label": "5",
+              "detail": "正確さと1単語あたりの秒数を記録して、上達を確認しましょう。"
+            }
+          ]
+        },
+        {
+          "order": 5,
+          "name": "SpellingRaceの単語と語彙",
+          "description": "SpellingRaceの単語を難易度別に整理し、接戦を分ける引っかけ単語を練習し、カテゴリーをローテーションして練習リストを新鮮に保ちましょう。",
+          "href": "/guide/spelling-race-word-list",
+          "displayType": "tier-grid",
+          "highlights": [
+            {
+              "label": "S",
+              "detail": "9文字以上: accommodate、occurrence、conscientious — 母音のパターンとあいまい母音。"
+            },
+            {
+              "label": "A",
+              "detail": "7〜8文字: separate、receive、rhythm、luggage — 発音しない文字と二重子音。"
+            },
+            {
+              "label": "B",
+              "detail": "5〜6文字: friend、orange、planet、bridge — 連結、二重字、よくある語尾。"
+            },
+            {
+              "label": "C",
+              "detail": "3〜4文字: cat、jump、dish、tree — 文字の順序と素早い想起。"
+            }
+          ]
+        },
+        {
+          "order": 6,
+          "name": "SpellingRaceの操作ガイド",
+          "description": "SpellingRaceの操作の早見表です。ラウンドを進める文字キー、送信キー、修正キーをまとめました。",
+          "href": "/mechanics/spelling-race-fastest-typing",
+          "displayType": "code-cards",
+          "highlights": [
+            {
+              "label": "A-Z",
+              "detail": "画面に表示された単語を最後まで入力します。進むには正確なつづりが必要です。"
+            },
+            {
+              "label": "Enter",
+              "detail": "最後の文字が入った瞬間に解答を送信します。"
+            },
+            {
+              "label": "Backspace",
+              "detail": "間違えた1文字だけを直して、入力ミスを修正します。"
+            },
+            {
+              "label": "ホームポジション",
+              "detail": "指をASDFとJKLに置き、無駄な手の移動をなくします。"
+            }
+          ]
+        },
+        {
+          "order": 7,
+          "name": "SpellingRaceの対応環境とダウンロード",
+          "description": "SpellingRaceを遊べる場所を紹介します。Roblox公式の体験版、ブラウザで遊ぶ方法、友達と練習できる無料のプライベートサーバー。",
+          "href": "/platforms/spelling-race-online",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Roblox",
+              "detail": "RobloxプラットフォームでSpellingRace公式の体験版を遊べます。"
+            },
+            {
+              "label": "ブラウザ",
+              "detail": "ダウンロード不要で、WebブラウザからSpellingRaceの試合に参加できます。"
+            },
+            {
+              "label": "モバイル",
+              "detail": "アプリをインストールすれば、外出先でも同じスペリングラウンドを遊べます。"
+            },
+            {
+              "label": "プライベート",
+              "detail": "無料のプライベートサーバーなら、友達とお題のテンポを練習できます。"
+            }
+          ]
+        },
+        {
+          "order": 8,
+          "name": "SpellingRaceの学習効果",
+          "description": "SpellingRaceの練習で実際に鍛えられるもの。単語の認識、つづりのパターン、そして授業のスペリングコンテストや日常の文章作成にも生きる入力への自信です。",
+          "href": "/guide/spelling-race-practice",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "想起",
+              "detail": "1文字ずつ読むのではなく、一目で単語を認識できるようにします。"
+            },
+            {
+              "label": "パターン",
+              "detail": "-tion、二重子音、ie/eiなどのまとまりを、自然に反応できるまで繰り返します。"
+            },
+            {
+              "label": "集中",
+              "detail": "見えるタイマーの下でも落ち着き、解答を決めきります。"
+            },
+            {
+              "label": "練習",
+              "detail": "定着には、長時間の詰め込みより短く繰り返す練習が効果的です。"
+            }
+          ]
+        }
+      ]
+    },
+    "faq": {
+      "title": "SpellingRaceに関するよくある質問",
+      "description": "SpellingRaceについて新規プレイヤーが最もよく尋ねる疑問に、端的にお答えします。",
+      "items": [
+        {
+          "question": "SpellingRaceとは？",
+          "answer": "SpellingRaceは、Team Ry LLCが手がけるRobloxの無料スペリングゲームです。画面に単語が表示されるので、できるだけ速く入力します。正解するたびにブロックを獲得できます。サーバーは最大12人まで、プライベートサーバーは無料です。"
+        },
+        {
+          "question": "SpellingRaceにコードはありますか？",
+          "answer": "いいえ。SpellingRaceにはコード引き換えの仕組みが一切ありません。コード入力欄も、プロモ入力欄も、開発者が公開したコード文字列も存在しません。報酬はプロモコードではなく、正しく素早く答えることでもらえます。"
+        },
+        {
+          "question": "SpellingRaceは無料で遊べますか？",
+          "answer": "はい。SpellingRaceはRobloxで無料で遊べ、Team Ry LLCは無料のプライベートサーバーにも対応しているので、見知らぬ人ではなく友達と練習できます。"
+        },
+        {
+          "question": "SpellingRaceでブロックを増やすには？",
+          "answer": "正しく素早く答えることです。Backspaceを使わないクリーンな入力は1ラウンドあたりの平均報酬を高く保ち、速さは正解の基本報酬にさらに加算されます。"
+        },
+        {
+          "question": "初心者はどのモードから始めるべき？",
+          "answer": "まずイージーモードでラウンドのリズムを覚え、修正なしで単語を終えられるようになったらハードモードに進みましょう。"
+        }
+      ]
+    },
+    "finalCta": {
+      "title": "もっとスペリングレースに勝ちたいですか？",
+      "description": "最初のスペリングラウンドから反応速度の向上まで、コミュニティウィキが無料で最新のガイド、操作、マルチプレイのコツをお届けします。",
+      "primary": "初心者ガイドを読む",
+      "secondary": "Robloxで遊ぶ"
+    }
+  },
+  "guide": {
+    "overviewTitle": "SpellingRaceガイド — 初心者向けガイド・コツ・解答",
+    "overviewDescription": "SpellingRaceのガイドを一か所に集約。初心者向けの手順、単語リストの全体、練習ルーティン、難しい単語、解答の参考資料で、Robloxでの勝利数を増やしましょう。"
+  },
+  "modes": {
+    "overviewTitle": "SpellingRaceのゲームモード — イージー・ハード・チャレンジ・スペリングビー",
+    "overviewDescription": "イージーやハードのラウンドからスペリングビーやチャレンジの変種まで、SpellingRaceの全モードを比較し、自分の入力レベルに合うモードを見つけましょう。"
+  },
+  "mechanics": {
+    "overviewTitle": "SpellingRaceの仕組み — 遊び方・タイピング速度・際どい解答",
+    "overviewDescription": "SpellingRaceのラウンドが実際にどう進むのかを理解しましょう。ラウンドの流れ、タイピング速度、際どい解答、難しい単語、そして各単語を最速でクリアする方法。"
+  },
+  "codes": {
+    "overviewTitle": "SpellingRaceのコード — 有効なコードと引き換え方法",
+    "overviewDescription": "確認されているSpellingRaceのコードをすべて追跡し、どれがまだ有効かを見て、引き換え手順を順を追って確認。無料の報酬を逃さないようにしましょう。"
+  },
+  "platforms": {
+    "overviewTitle": "SpellingRaceの対応環境 — Roblox・モバイル・アプリ・無料プレイ",
+    "overviewDescription": "SpellingRaceを遊べる場所を紹介します。Robloxの体験ページ、モバイルとアプリの選択肢、ブラウザ版、そして無料で遊べる範囲について。"
+  },
+  "community": {
+    "overviewTitle": "SpellingRaceコミュニティ — Discord・アップデート・新バージョン",
+    "overviewDescription": "SpellingRaceのコミュニティハブをフォローして、Discordの招待、パッチノート、アップデート履歴、新バージョンの詳細を、Roblox体験版の進化とともに追いましょう。"
+  },
+  "social": {
+    "overviewTitle": "SpellingRaceのSNS — ミーム・失敗・面白シーン",
+    "overviewDescription": "SpellingRaceの楽しい一面。ミーム、失敗、面白シーン、brainrot編集、YouTubeの名場面、そしてプレイヤーが何度も見返すRedditのスレッド。"
+  },
+  "shared": {
+    "wikiNavigation": "ウィキナビ",
+    "activeCodes": "有効なコード",
+    "updated": "更新日",
+    "viewAllCodes": "すべてのコードを見る",
+    "playOnRoblox": "Robloxで遊ぶ",
+    "inThisSection": "このセクションの内容",
+    "tableOfContents": "目次",
+    "nextSteps": "次のステップ",
+    "needHelp": "お困りですか？",
+    "relatedReading": "関連記事",
+    "relatedGuides": "関連ガイド",
+    "readMore": "続きを読む",
+    "officialMedia": "公式メディア",
+    "home": "ホーム",
+    "noGuidesAvailable": "まだガイドがありません。しばらくしてからもう一度ご覧ください。"
+  },
+  "footer": {
+    "aboutTitle": "SpellingRace Wiki",
+    "about": "SpellingRace Wikiは、スペリングのゲームプレイ、単語レースの戦略、操作方法、ブロック報酬、マルチプレイのコツ、そして新規・ベテランを問わず役立つゲーム知識を扱う、ファン制作の独立系ガイドハブです。",
+    "quickLinks": "クイックリンク",
+    "guides": "ガイド",
+    "legal": "法的情報",
+    "copyright": "2026 SpellingRace Wiki. Team Ry LLCおよびRobloxとは無関係です。",
+    "description": "Robloxの無料スペリングレース。速く答えてブロックを稼ぎ、友達と競おう。",
+    "playGame": "RobloxでSpelling Raceを遊ぶ",
+    "officialDiscord": "Roblox Discord",
+    "officialYoutube": "Roblox YouTube",
+    "vvBuilder": "コミュニティツール",
+    "beginnerGuide": "初心者ガイド",
+    "gameModes": "ゲームモード",
+    "allCodes": "すべてのコード",
+    "privacyPolicy": "プライバシーポリシー",
+    "termsOfService": "利用規約"
+  }
+}

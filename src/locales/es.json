@@ -1,1 +1,494 @@
-{}
+{
+  "site": {
+    "name": "SpellingRace Wiki",
+    "shortName": "SpellingRace",
+    "tagline": "Guías completas, trucos, jugabilidad y estrategias",
+    "description": "¡Tu guía definitiva de Spelling Race en Roblox! Descubre trucos de ortografía, estrategias de carreras de palabras, recompensas de bloques, funciones multijugador y guías para principiantes.",
+    "legalNotice": "Wiki de fans no oficial. Hecha por jugadores, para jugadores."
+  },
+  "nav": {
+    "home": "Inicio",
+    "menu": "Menú",
+    "toggleTheme": "Cambiar tema",
+    "guide": "Guía",
+    "modes": "Modos",
+    "mechanics": "Mecánicas",
+    "codes": "Códigos",
+    "platforms": "Plataformas",
+    "community": "Comunidad",
+    "social": "Social"
+  },
+  "home": {
+    "meta": {
+      "title": "SpellingRace Wiki - Guía, trucos y jugabilidad",
+      "description": "Explora las guías de Spelling Race, trucos de ortografía, controles y funciones multijugador. Aprende a responder más rápido, ganar más bloques y competir con amigos en Roblox."
+    },
+    "hero": {
+      "eyebrow": "Competición de ortografía a toda velocidad",
+      "title": "SpellingRace Wiki",
+      "description": "Explora la jugabilidad de Spelling Race, estrategias de ortografía, consejos para principiantes, controles y funciones multijugador. Aprende a responder más rápido, ganar más bloques y competir con amigos.",
+      "stats": [
+        "Desafío de ortografía de Roblox",
+        "Carreras de palabras a toda velocidad",
+        "Recompensas de bloques",
+        "Servidores privados"
+      ],
+      "primaryCta": "Guía para principiantes",
+      "secondaryCta": "Trucos de ortografía",
+      "tertiaryCta": "Códigos activos",
+      "videoLabel": "Vídeo de jugabilidad"
+    },
+    "updates": {
+      "title": "Últimas novedades",
+      "browse": "Ver todas las guías",
+      "viewAll": "Ver todo"
+    },
+    "start": {
+      "eyebrow": "Empieza aquí",
+      "title": "Tu camino en SpellingRace",
+      "cards": [
+        {
+          "number": "1",
+          "title": "Guía para principiantes",
+          "description": "Aprende el bucle de las rondas, los hábitos de lectura y la disciplina de la fila central que convierten tu primera partida de SpellingRace en victorias limpias."
+        },
+        {
+          "number": "2",
+          "title": "Velocidad de escritura",
+          "description": "Desarrolla la precisión de pulsación y la velocidad de reacción que deciden cada ronda de 12 jugadores en SpellingRace."
+        },
+        {
+          "number": "3",
+          "title": "Lista de palabras",
+          "description": "Estudia los niveles de dificultad, las palabras trampa y los trucos de memoria para que ningún reto de SpellingRace te pille por sorpresa."
+        },
+        {
+          "number": "4",
+          "title": "Estado de los códigos",
+          "description": "Consulta el estado real de los códigos de SpellingRace y cómo se ganan de verdad los bloques en el juego."
+        }
+      ]
+    },
+    "popular": {
+      "eyebrow": "Páginas populares",
+      "title": "Tendencias ahora",
+      "quickLinks": [
+        "Cómo jugar",
+        "Lista de palabras",
+        "Velocidad de escritura",
+        "Guía para principiantes"
+      ],
+      "cards": [
+        {
+          "badge": "Principiante",
+          "title": "Guía para principiantes",
+          "description": "El bucle de rondas, los ejercicios de mecanografía y los hábitos que te dan oro desde tu primera partida.",
+          "href": "/guide/spelling-race-beginner-guide"
+        },
+        {
+          "badge": "Actualizado",
+          "title": "Estado de los códigos",
+          "description": "El estado real de los códigos de SpellingRace y cómo se ganan de verdad los bloques.",
+          "href": "/codes/spelling-race-codes"
+        },
+        {
+          "badge": "Guía",
+          "title": "Lista de palabras y niveles de dificultad",
+          "description": "Desde el calentamiento hasta los niveles de experto, con las palabras trampa que deciden las carreras ajustadas.",
+          "href": "/guide/spelling-race-word-list"
+        },
+        {
+          "badge": "Popular",
+          "title": "Velocidad de escritura",
+          "description": "Referencias de PPM y ejercicios que convierten dedos rápidos en más bloques por ronda.",
+          "href": "/mechanics/spelling-race-typing-speed"
+        },
+        {
+          "badge": "Popular",
+          "title": "Cómo jugar",
+          "description": "Configuración, controles, puntuación y ajustes de categorías desde la primera vuelta hasta el récord.",
+          "href": "/mechanics/spelling-race-how-to-play"
+        },
+        {
+          "badge": "Guía",
+          "title": "Trucos de Spelling Race",
+          "description": "Postura, patrones de palabras, recuperación de errores y una rutina diaria que puedes mantener.",
+          "href": "/guide/spelling-race-tips"
+        },
+        {
+          "badge": "Nuevo",
+          "title": "Modos de juego",
+          "description": "Comparativa de Fácil, Difícil, Desafío, Spelling Bee y la edición Water Race.",
+          "href": "/modes"
+        },
+        {
+          "badge": "Nuevo",
+          "title": "Plataformas y descarga",
+          "description": "Dónde jugar a SpellingRace online, en el navegador o en el móvil gratis.",
+          "href": "/platforms/spelling-race-online"
+        },
+        {
+          "badge": "Guía",
+          "title": "Rutina de práctica",
+          "description": "Sesiones de práctica cortas y repetibles que superan el estudio maratónico.",
+          "href": "/guide/spelling-race-practice"
+        }
+      ]
+    },
+    "aboutGame": {
+      "title": "¿Qué es SpellingRace?",
+      "paragraphs": [
+        "SpellingRace es un juego de ortografía gratuito de Roblox creado por Team Ry LLC, una cuenta de desarrollador verificada. Aparece una palabra en pantalla, la escribes exactamente y la respuesta se puntúa según lo rápida y limpia que sea: la propia propuesta del juego es simple: cuanto más rápido respondas, más bloques ganas. Los servidores admiten hasta 12 jugadores y los servidores privados son gratis.",
+        "No hay lore, ni tienda de moneda, ni menú de canje de códigos: solo palabras, un cronómetro y una tabla de puntuación. Las capturas de rastreadores comunitarios sitúan a SpellingRace en unos 88,7 millones de visitas con una valoración positiva del 89,6 % y sesiones típicas de unos nueve minutos, y por eso esta wiki se centra en una práctica corta y repetible: listas de palabras, ejercicios de mecanografía, análisis de modos y los hábitos que deciden una ronda en su primer segundo."
+      ],
+      "stats": [
+        {
+          "label": "Desarrollador",
+          "value": "Team Ry LLC"
+        },
+        {
+          "label": "Plataforma",
+          "value": "Roblox"
+        },
+        {
+          "label": "Género",
+          "value": "Fiesta y casual"
+        },
+        {
+          "label": "Jugadores / servidor",
+          "value": "12"
+        },
+        {
+          "label": "Visitas",
+          "value": "88,7 M+"
+        },
+        {
+          "label": "Valoración positiva",
+          "value": "89,6 %"
+        },
+        {
+          "label": "Favoritos",
+          "value": "122 K+"
+        }
+      ],
+      "cta": "Explorar todas las guías"
+    },
+    "explore": {
+      "title": "Explora SpellingRace Wiki",
+      "description": "Todos los sistemas de SpellingRace en un solo lugar: cómo funciona una ronda, la lista completa de modos, los niveles de dificultad de las palabras, los controles, las plataformas y los hábitos de práctica que dan más bloques.",
+      "modules": [
+        {
+          "order": 1,
+          "name": "Cómo jugar a SpellingRace",
+          "description": "Aprende el bucle central de SpellingRace — lee el enunciado, escribe la palabra y envíala antes de que acabe el tiempo — con una guía para principiantes sobre letras, velocidad y puntuación.",
+          "href": "/mechanics/spelling-race-how-to-play",
+          "displayType": "step-by-step",
+          "highlights": [
+            {
+              "label": "1",
+              "detail": "Únete a una sala de hasta 12 jugadores y espera la cuenta atrás."
+            },
+            {
+              "label": "2",
+              "detail": "Lee la palabra completa en pantalla antes de escribir la primera letra."
+            },
+            {
+              "label": "3",
+              "detail": "Escribe la respuesta exacta: una letra mal detiene tu ronda."
+            },
+            {
+              "label": "4",
+              "detail": "Envía en cuanto entre la última letra; dudar cuesta bloques."
+            },
+            {
+              "label": "5",
+              "detail": "Recoge bloques según lo rápida y limpia que haya sido la respuesta."
+            },
+            {
+              "label": "6",
+              "detail": "Vuelve a la cola y repite el bucle para crear memoria muscular."
+            }
+          ]
+        },
+        {
+          "order": 2,
+          "name": "Modos de juego de SpellingRace",
+          "description": "Compara todos los modos documentados de SpellingRace, desde Fácil y Difícil hasta Desafío, Spelling Bee y la edición Water Race, y descubre cuál practicar después.",
+          "href": "/modes",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Modo Fácil",
+              "detail": "Palabras cortas y comunes que enseñan el ritmo de las rondas sin presión."
+            },
+            {
+              "label": "Modo Difícil",
+              "detail": "Enunciados más largos y complicados que suben de nivel a medida que mejora tu precisión."
+            },
+            {
+              "label": "Desafío",
+              "detail": "Rondas contrarreloj que exigen a la vez tu velocidad de lectura y de escritura."
+            },
+            {
+              "label": "Modo Bee",
+              "detail": "Un concurso de deletreo estilo carrera donde fallar cuesta tiempo, no la eliminación."
+            },
+            {
+              "label": "Water Race",
+              "detail": "Una variante de recorrido temático que añade movimiento al bucle de deletreo."
+            }
+          ]
+        },
+        {
+          "order": 3,
+          "name": "Trucos y consejos de SpellingRace",
+          "description": "Estrategias prácticas de SpellingRace para leer palabras más rápido, escribir con precisión bajo presión y recuperarte de una letra mal escrita sin perder la ronda.",
+          "href": "/guide/spelling-race-tips",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Fila central",
+              "detail": "Apoya los dedos en ASDF y JKL para que tus manos nunca dejen las teclas a mitad de palabra."
+            },
+            {
+              "label": "Fragmentación",
+              "detail": "Divide las palabras largas en trozos como com-put-er en vez de leer letra por letra."
+            },
+            {
+              "label": "Precisión",
+              "detail": "Escribe a un ritmo constante: las palabras limpias ganan a las rápidas con correcciones."
+            },
+            {
+              "label": "Recuperación",
+              "detail": "Corrige solo la letra errónea con Retroceso en lugar de reescribir toda la palabra."
+            }
+          ]
+        },
+        {
+          "order": 4,
+          "name": "Niveles y progresión de SpellingRace",
+          "description": "Descubre cómo funciona la progresión en SpellingRace: ganar bloques en cada ronda, pasar de Fácil a Difícil y medir tu propia precisión y tus segundos por palabra.",
+          "href": "/modes/spelling-race-hard-level",
+          "displayType": "step-by-step",
+          "highlights": [
+            {
+              "label": "1",
+              "detail": "Empieza en Modo Fácil para aprender el ritmo de las rondas sin presión de tiempo."
+            },
+            {
+              "label": "2",
+              "detail": "Gana bloques en cada ronda: las respuestas más rápidas y limpias pagan más."
+            },
+            {
+              "label": "3",
+              "detail": "Pasa al Modo Difícil cuando superes palabras sin correcciones."
+            },
+            {
+              "label": "4",
+              "detail": "Usa los modos Desafío y Spelling Bee para probar listas de palabras más largas."
+            },
+            {
+              "label": "5",
+              "detail": "Controla tu precisión y los segundos por palabra para ver tu progreso."
+            }
+          ]
+        },
+        {
+          "order": 5,
+          "name": "Palabras y vocabulario de SpellingRace",
+          "description": "Clasifica las palabras de SpellingRace por niveles de dificultad, practica las palabras trampa que deciden las carreras ajustadas y rota las categorías para que tu lista de práctica nunca se quede obsoleta.",
+          "href": "/guide/spelling-race-word-list",
+          "displayType": "tier-grid",
+          "highlights": [
+            {
+              "label": "S",
+              "detail": "9+ letras: accommodate, occurrence, conscientious — patrones vocálicos y sonidos schwa."
+            },
+            {
+              "label": "A",
+              "detail": "7-8 letras: separate, receive, rhythm, luggage — letras mudas y consonantes dobles."
+            },
+            {
+              "label": "B",
+              "detail": "5-6 letras: friend, orange, planet, bridge — grupos, dígrafos y terminaciones comunes."
+            },
+            {
+              "label": "C",
+              "detail": "3-4 letras: cat, jump, dish, tree — orden de letras y recuerdo rápido."
+            }
+          ]
+        },
+        {
+          "order": 6,
+          "name": "Guía de controles de SpellingRace",
+          "description": "Una referencia rápida de los controles de SpellingRace: las teclas de letras, la tecla de envío y la tecla de corrección que mantienen la ronda en marcha.",
+          "href": "/mechanics/spelling-race-fastest-typing",
+          "displayType": "code-cards",
+          "highlights": [
+            {
+              "label": "A-Z",
+              "detail": "Escribe la palabra completa que aparece en pantalla; se exige la ortografía exacta para avanzar."
+            },
+            {
+              "label": "Intro",
+              "detail": "Envía tu respuesta en el momento en que entre la última letra."
+            },
+            {
+              "label": "Retroceso",
+              "detail": "Corrige un fallo arreglando solo la letra equivocada."
+            },
+            {
+              "label": "Fila central",
+              "detail": "Mantén los dedos en ASDF y JKL para no desperdiciar ningún movimiento."
+            }
+          ]
+        },
+        {
+          "order": 7,
+          "name": "Plataformas y descarga de SpellingRace",
+          "description": "Descubre dónde jugar a SpellingRace: la experiencia oficial de Roblox, la opción de jugar en el navegador y servidores privados gratis para practicar con amigos.",
+          "href": "/platforms/spelling-race-online",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Roblox",
+              "detail": "Juega a la experiencia oficial de SpellingRace en la plataforma Roblox."
+            },
+            {
+              "label": "Navegador",
+              "detail": "Entra en una partida de SpellingRace desde el navegador web sin descargas."
+            },
+            {
+              "label": "Móvil",
+              "detail": "Instala la app y juega a las mismas rondas de ortografía desde cualquier lugar."
+            },
+            {
+              "label": "Privado",
+              "detail": "Los servidores privados gratuitos te dejan ensayar el ritmo de los enunciados con amigos."
+            }
+          ]
+        },
+        {
+          "order": 8,
+          "name": "Beneficios de aprendizaje de SpellingRace",
+          "description": "Lo que realmente entrena la práctica de SpellingRace: reconocimiento de palabras, patrones ortográficos y confianza al escribir que se traslada a los concursos de clase y a la escritura diaria.",
+          "href": "/guide/spelling-race-practice",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Recuerdo",
+              "detail": "Reconocer una palabra de un vistazo en lugar de deletrearla letra por letra."
+            },
+            {
+              "label": "Patrones",
+              "detail": "Repetir grupos como -tion, las consonantes dobles y los conjuntos ie/ei hasta que salgan solos."
+            },
+            {
+              "label": "Concentración",
+              "detail": "Mantener la calma bajo un cronómetro visible y comprometerse con una respuesta."
+            },
+            {
+              "label": "Práctica",
+              "detail": "Sesiones cortas y repetibles que superan el estudio maratónico para retener lo aprendido."
+            }
+          ]
+        }
+      ]
+    },
+    "faq": {
+      "title": "Preguntas frecuentes sobre SpellingRace",
+      "description": "Respuestas directas a las preguntas que más hacen los nuevos jugadores sobre SpellingRace.",
+      "items": [
+        {
+          "question": "¿Qué es SpellingRace?",
+          "answer": "SpellingRace es un juego de ortografía gratuito de Roblox creado por Team Ry LLC. Aparece una palabra en pantalla, la escribes lo más rápido que puedes y cada respuesta correcta te da bloques. Los servidores admiten hasta 12 jugadores y los servidores privados son gratis."
+        },
+        {
+          "question": "¿SpellingRace tiene códigos?",
+          "answer": "No. SpellingRace no tiene ningún sistema de canje de códigos: no hay caja de códigos, ni campo de promociones, ni cadenas publicadas por el desarrollador. Las recompensas vienen de responder bien y rápido, no de códigos promocionales."
+        },
+        {
+          "question": "¿SpellingRace es gratis?",
+          "answer": "Sí. SpellingRace es gratis en Roblox, y Team Ry LLC también ofrece servidores privados gratuitos para que practiques con amigos en lugar de con desconocidos."
+        },
+        {
+          "question": "¿Cómo gano más bloques en SpellingRace?",
+          "answer": "Responde bien y rápido. Escribir limpio y sin retrocesos mantiene alta tu recompensa media por ronda, y la velocidad suma a la recompensa sobre el pago base por una ortografía correcta."
+        },
+        {
+          "question": "¿Con qué modo debería empezar un principiante en SpellingRace?",
+          "answer": "Empieza con el Modo Fácil para aprender el ritmo de las rondas y sube al Modo Difícil cuando puedas terminar palabras sin correcciones."
+        }
+      ]
+    },
+    "finalCta": {
+      "title": "¿Listo para ganar más carreras de ortografía?",
+      "description": "Desde tu primera ronda de deletreo hasta tiempos de reacción más rápidos, nuestra wiki comunitaria te cubre con guías, controles y trucos multijugador gratuitos y actualizados.",
+      "primary": "Lee la guía para principiantes",
+      "secondary": "Jugar en Roblox"
+    }
+  },
+  "guide": {
+    "overviewTitle": "Guía de SpellingRace — Guías para principiantes, trucos y respuestas",
+    "overviewDescription": "Todas las guías de SpellingRace en un solo lugar: un tutorial para principiantes, la lista completa de palabras, rutinas de práctica, palabras difíciles y referencias de respuestas que te ayudan a ganar más rondas en Roblox."
+  },
+  "modes": {
+    "overviewTitle": "Modos de juego de SpellingRace — Fácil, Difícil, Desafío y Spelling Bee",
+    "overviewDescription": "Compara todos los modos de juego de SpellingRace, desde rondas fáciles y difíciles hasta las variantes de concurso de deletreo y desafío, y descubre cuál encaja con tu nivel de mecanografía."
+  },
+  "mechanics": {
+    "overviewTitle": "Mecánicas de SpellingRace — Cómo jugar, velocidad de escritura y respuestas ajustadas",
+    "overviewDescription": "Entiende cómo funciona realmente una ronda de SpellingRace: flujo de ronda, velocidad de escritura, respuestas ajustadas, palabras difíciles y las formas más rápidas de superar cada palabra."
+  },
+  "codes": {
+    "overviewTitle": "Códigos de SpellingRace — Códigos activos y cómo canjearlos",
+    "overviewDescription": "Sigue todos los códigos conocidos de SpellingRace, mira cuáles siguen activos y aprende el proceso de canje paso a paso para no perderte ninguna recompensa gratis."
+  },
+  "platforms": {
+    "overviewTitle": "Plataformas de SpellingRace — Roblox, móvil, app y juego gratis",
+    "overviewDescription": "Descubre dónde puedes jugar a SpellingRace: la página de la experiencia en Roblox, las opciones para móvil y app, la versión de navegador y lo que sigue siendo gratis."
+  },
+  "community": {
+    "overviewTitle": "Comunidad de SpellingRace — Discord, actualizaciones y nuevas versiones",
+    "overviewDescription": "Sigue el centro de la comunidad de SpellingRace para invitaciones de Discord, notas de parche, historial de actualizaciones y detalles de nuevas versiones a medida que evoluciona la experiencia de Roblox."
+  },
+  "social": {
+    "overviewTitle": "SpellingRace Social — Memes, fails y momentos divertidos",
+    "overviewDescription": "El lado divertido de SpellingRace: memes, fails, momentos graciosos, ediciones brainrot, destacados de YouTube y los hilos de Reddit a los que los jugadores siempre vuelven."
+  },
+  "shared": {
+    "wikiNavigation": "Navegación de la wiki",
+    "activeCodes": "Códigos activos",
+    "updated": "Actualizado",
+    "viewAllCodes": "Ver todos los códigos",
+    "playOnRoblox": "Jugar en Roblox",
+    "inThisSection": "En esta sección",
+    "tableOfContents": "Índice",
+    "nextSteps": "Siguientes pasos",
+    "needHelp": "¿Necesitas ayuda?",
+    "relatedReading": "Lecturas relacionadas",
+    "relatedGuides": "Guías relacionadas",
+    "readMore": "Leer más",
+    "officialMedia": "Medios oficiales",
+    "home": "Inicio",
+    "noGuidesAvailable": "Todavía no hay guías disponibles. ¡Vuelve pronto!"
+  },
+  "footer": {
+    "aboutTitle": "SpellingRace Wiki",
+    "about": "SpellingRace Wiki es un centro de guías independiente creado por fans que cubre la jugabilidad de ortografía, las estrategias de carreras de palabras, los controles, las recompensas de bloques, los trucos multijugador y los conocimientos esenciales del juego tanto para jugadores nuevos como veteranos.",
+    "quickLinks": "Enlaces rápidos",
+    "guides": "Guías",
+    "legal": "Legal",
+    "copyright": "2026 SpellingRace Wiki. Sin afiliación con Team Ry LLC ni Roblox.",
+    "description": "Carrera de ortografía gratuita de Roblox. Responde rápido, gana más bloques y compite con amigos.",
+    "playGame": "Juega a Spelling Race en Roblox",
+    "officialDiscord": "Discord de Roblox",
+    "officialYoutube": "YouTube de Roblox",
+    "vvBuilder": "Herramientas de la comunidad",
+    "beginnerGuide": "Guía para principiantes",
+    "gameModes": "Modos de juego",
+    "allCodes": "Todos los códigos",
+    "privacyPolicy": "Política de privacidad",
+    "termsOfService": "Términos de servicio"
+  }
+}
