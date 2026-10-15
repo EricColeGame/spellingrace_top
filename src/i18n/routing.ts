@@ -1,11 +1,13 @@
 import { defineRouting } from "next-intl/routing";
-import { siteConfig } from "@/config/site";
+
+/** 全站语言集合（唯一真相源）：request.ts、language-switcher.tsx 与 src/locales/*.json 必须与之一致 */
+export const locales = ["en", "es", "ja", "ko"] as const;
+
+export type Locale = (typeof locales)[number];
 
 export const routing = defineRouting({
-  locales: siteConfig.locales as unknown as string[],
-  defaultLocale: siteConfig.defaultLocale,
+  locales: [...locales],
+  defaultLocale: "en",
   localePrefix: "always",
   localeDetection: false,
 });
-
-export type Locale = (typeof routing.locales)[number];
