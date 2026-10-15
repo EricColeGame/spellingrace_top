@@ -9,7 +9,14 @@
   "nav": {
     "home": "Home",
     "menu": "Menu",
-    "toggleTheme": "Toggle theme"
+    "toggleTheme": "Toggle theme",
+    "guide": "Guide",
+    "modes": "Modes",
+    "mechanics": "Mechanics",
+    "codes": "Codes",
+    "platforms": "Platforms",
+    "community": "Community",
+    "social": "Social"
   },
   "home": {
     "meta": {
@@ -421,7 +428,34 @@
       "secondary": "Play on Roblox"
     }
   },
-  "bosses": {},
+  "guide": {
+    "overviewTitle": "SpellingRace Guide — Beginner Guides, Tips and Answers",
+    "overviewDescription": "Every SpellingRace guide in one place: a beginner walkthrough, the full word list, practice routines, hard words and answer references that help you win more rounds on Roblox."
+  },
+  "modes": {
+    "overviewTitle": "SpellingRace Game Modes — Easy, Hard, Challenge and Spelling Bee",
+    "overviewDescription": "Compare every SpellingRace game mode, from easy and hard rounds to the spelling bee and challenge variants, and learn which mode fits your typing level."
+  },
+  "mechanics": {
+    "overviewTitle": "SpellingRace Mechanics — How to Play, Typing Speed and Close Answers",
+    "overviewDescription": "Understand how a SpellingRace round actually works: round flow, typing speed, close answers, difficult words and the fastest ways to clear each word."
+  },
+  "codes": {
+    "overviewTitle": "SpellingRace Codes — Working Codes and How to Redeem",
+    "overviewDescription": "Track every known SpellingRace code, see which ones are still active, and follow the step-by-step redemption flow so you never miss a free reward."
+  },
+  "platforms": {
+    "overviewTitle": "SpellingRace Platforms — Roblox, Mobile, App and Free Play",
+    "overviewDescription": "Find out where you can play SpellingRace: the Roblox experience page, mobile and app options, the browser version and what stays free to play."
+  },
+  "community": {
+    "overviewTitle": "SpellingRace Community — Discord, Updates and New Versions",
+    "overviewDescription": "Follow the SpellingRace community hub for Discord invites, patch notes, update history and new version details as the Roblox experience evolves."
+  },
+  "social": {
+    "overviewTitle": "SpellingRace Social — Memes, Fails and Funny Moments",
+    "overviewDescription": "The fun side of SpellingRace: memes, fails, funny moments, brainrot edits, YouTube highlights and the Reddit threads players keep coming back to."
+  },
   "shared": {
     "wikiNavigation": "Wiki Navigation",
     "activeCodes": "Active Codes",
@@ -452,9 +486,8 @@
     "officialYoutube": "Roblox YouTube",
     "vvBuilder": "Community Tools",
     "beginnerGuide": "Beginner Guide",
-    "raceGuides": "Race Guides",
-    "bossGuides": "Boss Guides",
-    "buildGuide": "Build Guide",
+    "gameModes": "Game Modes",
+    "allCodes": "All Codes",
     "privacyPolicy": "Privacy Policy",
     "termsOfService": "Terms of Service"
   }
